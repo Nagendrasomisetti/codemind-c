@@ -8,5 +8,6 @@ int main()
         r=n%10;
         s=(s*10)+r;
         n=n/10;
-    }printf("%d",s);
+    }
+    printf("%d",s);
 }
