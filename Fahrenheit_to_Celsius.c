@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    float F,c;
-    scanf("%f",&F);
-    c = ((F-32)*5)/9;
+    float f,c;
+    scanf("%f",&f);
+    c=(f-32)*5/9;
     printf("%.2f",c);
 }
